@@ -21,9 +21,9 @@ latest_posts:
   enabled: true
 ---
 
-I work on model training and serving performance and reliability for AWS EC2 UltraServers. Prior to that, I led efforts related to building Kubernetes and Slurm AI Hypercomputer platforms at Google for running distributed training and inference worloads on GPU and TPU clusters. I write about some of these topics and more on my [blog]({{ '/blog/' | relative_url }}).
+I work on improving model training and serving performance and reliability for AWS EC2 UltraServers. Prior to that, I led efforts related to building Kubernetes and Slurm AI Hypercomputer platforms at Google for running distributed training and inference workloads on GPU and TPU clusters. I write about some of these topics and more on my [blog]({{ '/blog/' | relative_url }}).
 
-I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU, as well as prime payment and offer integrations. I graduated in Computer Science from BITS Pilani (Class of 2021).
+I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU. I worked on content/ad recommendation systems, video streaming, and payments systems to support various growth initiatives for Amazon's video services(Prime Video, MXPlayer). I graduated in Computer Science from BITS Pilani (Class of 2021). 
 
 ---
 
@@ -31,6 +31,8 @@ I have experience building and scaling tech platforms from my first stint at Ama
 
 ### **Software Engineer** | **AWS**
 *Seattle, USA &middot; Jul 2025 – Present*
+- Improving fleetwide anomaly detection systems to reduce the number of reported false positives and negatives. Migrating failure detection systems from a simple rule-based system to a lightweight ML based system which has helped reduce false positives by 32%. 
+- Improving repair automation systems to reduce repair times and improve server uptime.
 - Building HPC and AI networking primitives for GPU, Trainium, and Inferentia chips.
 - Developing high-speed network systems that power AI platforms exposed by AWS.
 
@@ -42,7 +44,7 @@ I have experience building and scaling tech platforms from my first stint at Ama
 
 ### **Software Development Engineer** | **Amazon**
 *Bangalore, India &middot; Jan 2021 – Sep 2024*
-- Worked on launching installment-based payment methods and config-powered backend services to accelerate Prime Video Payment expansion globally.
+- Worked on launching installment-based payment methods and config-powered backend services to accelerate launching new payment methods globally.
 - Optimized ads, video streaming, and content recommendation modules for miniTV (now MX Player).
 - Designed and implemented Amazon's first React Native RecyclerListView solution, now adopted globally by multiple internal teams.
 
@@ -58,10 +60,6 @@ I have experience building and scaling tech platforms from my first stint at Ama
 ### **B.E. (Hons) Computer Science** | **BITS Pilani**
 *Class of 2021 &middot; CGPA: 8.48/10*
 - Coursework: Neural Networks and Fuzzy Logic, Design & Analysis of Algorithms, Operating Systems, Compiler Design, Machine Learning, Linear Algebra.
-
-### **M.Sc. (Hons) Biological Sciences** | **BITS Pilani**
-*Class of 2021 &middot; CGPA: 8.48/10*
-- Coursework: Introduction to Bioinformatics, Biophysics, Cell Biology, Genetics, Recombinant DNA Technology.
 
 ### **High Secondary School (Grade XII)** | **PACE Junior Science College**
 *Class of 2013 &middot; Percentile: 98.89*
