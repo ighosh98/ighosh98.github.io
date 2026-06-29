@@ -18,10 +18,10 @@ announcements:
   enabled: false
 
 latest_posts:
-  enabled: false
+  enabled: true
 ---
 
-I lead HPC and AI infrastructure networking efforts at AWS EC2. Prior to that, I led efforts related to building Kubernetes and Slurm AI platforms at Google that allowed clients to reliably run training workloads on GPUs and TPUs. 
+I work on model training and serving performance and reliability for AWS EC2 UltraServers. Prior to that, I led efforts related to building Kubernetes and Slurm AI Hypercomputer platforms at Google for running distributed training and inference worloads on GPU and TPU clusters. I write about some of these topics and more on my [blog]({{ '/blog/' | relative_url }}).
 
 I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU, as well as prime payment and offer integrations. I graduated in Computer Science from BITS Pilani (Class of 2021).
 
