@@ -1,0 +1,27 @@
+---
+layout: default
+title: Blog
+---
+
+<section class="section">
+  <h1>Blog Posts</h1>
+  
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {% if post.description %}
+          <p>{{ post.description }}</p>
+        {% elsif post.excerpt %}
+          {{ post.excerpt }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+</section>
