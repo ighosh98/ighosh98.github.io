@@ -6,7 +6,7 @@ layout: default
 <section class="section" id="about">
   <img class="profile-pic" src="{{ '/images/profile.jpg' | relative_url }}" alt="Indraneel Ghosh">
   <h1>Indraneel Ghosh</h1>
-  <p>I lead HPC and AI infrastructure networking efforts at AWS EC2. Prior to that, I led efforts related to building Kubernetes and Slurm AI platforms at Google that allowed clients to reliably run training workloads on GPUs and TPUs. I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU, as well as prime payment and offer integrations. I graduated in Computer Science from BITS Pilani (Class of 2021).</p>
+<p>I work on improving model training and serving performance and reliability for AWS EC2 UltraServers. Prior to that, I led efforts related to building Kubernetes and Slurm AI Hypercomputer platforms at Google for running distributed training and inference workloads on GPU and TPU clusters. I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU. I worked on content/ad recommendation systems, video streaming, and payments systems to support various growth initiatives for Amazon's video services(Prime Video, MXPlayer). I graduated in Computer Science from BITS Pilani (Class of 2021).</p>
   
   <h3>Profile Info</h3>
   <ul class="info-list">
@@ -110,18 +110,6 @@ layout: default
       <div class="timeline-content">
         <p>CGPA: 8.48/10</p>
         <p>Coursework: Neural Networks and Fuzzy Logic, Design & Analysis of Algorithms, Operating Systems, Compiler Design, Machine Learning, Linear Algebra.</p>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-header">
-        <span class="timeline-title">M.Sc. (Hons) Biological Sciences</span>
-        <span class="timeline-date">Class of 2021</span>
-      </div>
-      <div class="timeline-subtitle">BITS Pilani &middot; Pilani, India</div>
-      <div class="timeline-content">
-        <p>CGPA: 8.48/10</p>
-        <p>Coursework: Introduction to Bioinformatics, Biophysics, Cell Biology, Genetics, Recombinant DNA Technology.</p>
       </div>
     </div>
 
