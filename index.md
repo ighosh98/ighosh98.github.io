@@ -43,6 +43,8 @@ layout: default
       <div class="timeline-subtitle">AWS &middot; Seattle, USA</div>
       <div class="timeline-content">
         <ul>
+          <li>Improving fleetwide anomaly detection systems to reduce the number of reported false positives and negatives.</li>
+          <li>Migrating failure detection systems from a simple rule-based system to a lightweight ML based system which has helped reduce false positives by 32%.</li>
           <li>Building HPC and AI networking primitives for GPU, Trainium, and Inferentia chips.</li>
           <li>Developing high-speed network systems that power AI platforms exposed by AWS.</li>
         </ul>
