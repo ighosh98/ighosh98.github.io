@@ -1,6 +1,3 @@
----
----
-
 /* foundational resets */
 * {
   box-sizing: border-box;
@@ -314,34 +311,6 @@ ul {
   color: #ffffff;
 }
 
-/* Blog Styles */
-.post-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.post-list li {
-  margin-bottom: 2rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #eeeeee;
-}
-
-.post-list h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-.post-meta {
-  font-size: 0.85rem;
-  color: #999999;
-  margin-bottom: 1rem;
-}
-
-.post-header {
-  margin-bottom: 2rem;
-}
-
 /* Media query for desktop layout (Sidebar left, content right) */
 @media (min-width: 1025px) {
   .wrapper {
@@ -488,9 +457,5 @@ ul {
   .btn:hover {
     background-color: #66b2ff;
     color: #121212;
-  }
-  
-  .post-list li {
-    border-bottom-color: #2c2c2c;
   }
 }
