@@ -6,7 +6,7 @@ layout: default
 <section class="section" id="about">
   <img class="profile-pic" src="{{ '/images/profile.jpg' | relative_url }}" alt="Indraneel Ghosh">
   <h1>Indraneel Ghosh</h1>
-<p>I work on improving model training and serving performance and reliability for AWS EC2 UltraServers. Prior to that, I led efforts related to building Kubernetes and Slurm AI Hypercomputer platforms at Google for running distributed training and inference workloads on GPU and TPU clusters. I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU. I worked on content/ad recommendation systems, video streaming, and payments systems to support various growth initiatives for Amazon's video services(Prime Video, MXPlayer). I graduated in Computer Science from BITS Pilani (Class of 2021).</p>
+  <p>I work on improving model training and serving performance and reliability for AWS EC2 UltraServers. Prior to that, I led efforts related to building Kubernetes and Slurm AI Hypercomputer platforms at Google for running distributed training and inference workloads on GPU and TPU clusters. I have experience building and scaling tech platforms from my first stint at Amazon where I worked on scaling an ads-powered streaming service from 0 to 2 million+ DAU. I worked on content/ad recommendation systems, video streaming, and payments systems to support various growth initiatives for Amazon's video services (Prime Video, MX Player). I graduated in Computer Science from BITS Pilani (Class of 2021).</p>
   
   <h3>Profile Info</h3>
   <ul class="info-list">
@@ -44,7 +44,7 @@ layout: default
       <div class="timeline-content">
         <ul>
           <li>Improving fleetwide anomaly detection systems to reduce the number of reported false positives and negatives.</li>
-          <li>Migrating failure detection systems from a simple rule-based system to a lightweight ML based system which has helped reduce false positives by 32%.</li>
+          <li>Migrating failure detection systems from a simple rule-based system to a lightweight ML-based system which has helped reduce false positives by 32%.</li>
           <li>Building HPC and AI networking primitives for GPU, Trainium, and Inferentia chips.</li>
           <li>Developing high-speed network systems that power AI platforms exposed by AWS.</li>
         </ul>
