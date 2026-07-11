@@ -16,6 +16,11 @@ social_links:
 markdown: kramdown
 permalink: /blog/:year/:title/
 
+collections:
+  papershelf:
+    output: true
+    permalink: /papershelf/:title/
+
 exclude:
   - Gemfile
   - Gemfile.lock
