@@ -3,8 +3,6 @@ layout: paper
 title: The Illusion of Portability
 ---
 
-# The Illusion of Portability
-
 [The Illusion of Portability: On the Cost of Hardware-Specific Performance in Deep Learning](https://arxiv.org/abs/2309.07181)
 
 This paper is a personal favorite because of the fact that it says the quiet part out loud by presenting really solid evidence.
